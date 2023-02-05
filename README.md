@@ -3,6 +3,7 @@ Group project with Kayla, John, and Anifa.<br />
 <br />
 Kayla was responsible for the background and the left side of the page. I also took the role as the host,<br />
 so I was responsible for making sure all of our codes were properly merged and that they all worked together properly.<br />
+It also allowed me to practice disecting other people's code, and matching that to how the paged flowed with their code.<br />
 <br />
 John was responsible for making the form, including the sign in button. He added the icons to the inside of the form boxes.<br />
 This allowed John to get more exposure to forms, and taught us both how to add the icons inside of the input boxes.<br />
