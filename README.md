@@ -17,4 +17,4 @@ This project as a group taught us how to all work together and keep communicatio
 We worked extremely well as a team, and we all divided our assignments up to places we had more weaknesses in.<br />
 This allowed us practice and exposure to those struggle areas.<br />
 <br />
-Live Preview here: 
+Live Preview here: https://kaylajo838.github.io/weekend-project-sign-in-page/
