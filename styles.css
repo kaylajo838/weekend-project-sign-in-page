@@ -114,15 +114,19 @@ body {
 #submit {
     cursor: pointer;
 }
+
+/* Anifa's Style Code */
 .anifa{
     margin-top: 10px;
     margin-left: 80px;
 }
+
 .sen{
     margin-bottom: 30px;
     margin-left: 480px;
     
 }
+
 .sen h3{
     font-size: 20px;
     font-style: bold;
@@ -132,21 +136,22 @@ body {
 .icons{
     width: 650px;
     height: 100px;
-    margin-left: 250px;
+    margin-left: 280px;
     margin-top: 0px;
-    
-
 }
+
 .icons ul{
     list-style: none;
     display: flex;
     justify-content: center;
     gap: 30px;
 }
+
  img{
     width: 100px;
     height: 90px;
 }
+
  li a:hover{
    background-color: rgb(0, 76, 255);
 }
